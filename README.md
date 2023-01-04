@@ -17,4 +17,5 @@ URL provided should display this
 ```
 ## Links
 Repository: https://github.com/BryanBorek/Aequo-Mockups
+
 Live URL: https://bryanborek.github.io/Aequo-Mockups/
